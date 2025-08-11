@@ -5,10 +5,23 @@
 This project applies advanced data mining and machine learning techniques to a large, real-world healthcare dataset. The goal is to extract actionable insights, build predictive models, and discover patterns relevant to healthcare and socioeconomic outcomes. Additional analyses use the UCI Adult Income dataset and the Diabetes dataset from `sklearn.datasets` for classification and regression modeling.
 
 ## Dataset Summary
-The primary dataset (`healthcare_deliverable1.csv`) contains 55,500 records with the following features:
+
+### 1. healthcare.csv
+Contains 55,500 healthcare records with:
 - **Demographics:** Name, Age, Gender, Blood Type
 - **Medical:** Medical Condition, Date of Admission, Doctor, Hospital, Medication, Test Results
 - **Administrative:** Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date
+
+### 2. UCI Adult Income Dataset
+Public dataset with 32,561 rows and 15 features, used for income classification tasks. Features include:
+- **Demographics & Socioeconomic:** Age, Workclass, Education, Marital Status, Occupation, Relationship, Race, Sex, Capital Gain/Loss, Hours-per-week, Native Country, and Income (target: >50K or <=50K).
+- Used for classification, clustering, and association rule mining.
+
+### 3. Diabetes Dataset (sklearn.datasets)
+Standard regression dataset with 442 samples and 10 features:
+- **Features:** Age, Sex, BMI, Blood Pressure, and six blood serum measurements.
+- **Target:** Quantitative measure of disease progression one year after baseline.
+- Used for regression modeling and performance evaluation.
 
 ## Project Steps
 1. **Data Exploration & Cleaning:**
