@@ -1,5 +1,7 @@
 
-# MS634ProjD4: Advanced Data Mining for Healthcare and Socioeconomic Data
+# Project: Advanced Data Mining for Data-Driven Insights and Predictive Modelling
+# Deliverable 4: Final Insights, Recommendations, and Presentation
+
 
 ## Project Overview
 This project applies advanced data mining and machine learning techniques to a large, real-world healthcare dataset. The goal is to extract actionable insights, build predictive models, and discover patterns relevant to healthcare and socioeconomic outcomes. Additional analyses use the UCI Adult Income dataset and the Diabetes dataset from `sklearn.datasets` for classification and regression modeling.
