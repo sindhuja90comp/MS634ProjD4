@@ -1,7 +1,7 @@
 
-## Project Title: 
-## Advanced Data Mining for Data-Driven Insights and Predictive Modelling
-## Deliverable 4: Final Insights, Recommendations, and Presentation
+### Project Title: Advanced Data Mining for Data-Driven Insights and Predictive Modelling
+### Deliverable 4: Final Insights, Recommendations, and Presentation
+### Course : Advanced Big Data and Data Mining (MSCS-634-B01)
 
 
 ## Project Overview
